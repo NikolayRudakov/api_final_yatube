@@ -1,7 +1,6 @@
 # TODO:  Напишите свой вариант
 from django.shortcuts import get_object_or_404
 from rest_framework import viewsets, filters, permissions, mixins
-from rest_framework.exceptions import PermissionDenied
 from rest_framework.pagination import LimitOffsetPagination
 from django_filters.rest_framework import DjangoFilterBackend
 

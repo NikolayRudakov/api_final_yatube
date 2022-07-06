@@ -1,4 +1,3 @@
-from genericpath import exists
 from rest_framework import permissions
 
 
